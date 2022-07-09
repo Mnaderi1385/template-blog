@@ -6,6 +6,7 @@
     border-radius: .5rem;
     padding: 1rem;
     transition: all .6s ease;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
 }
 .post:hover {
     transform: translateY(-5px);
